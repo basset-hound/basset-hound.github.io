@@ -1,0 +1,43 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: 'Syne Mono', monospace; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+  font-size: 40px;
+  color: #F5CDBC
+}
+
+h2 {
+  font-size: 30px;
+  color: #F5CDBC
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: #F5CDBC;
+}
+
+html {
+  background-color: #0B0608;
+}
+
+a {
+  color: #F5CDBC
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #342D45;
+  padding: 0 5px 5px 5px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
